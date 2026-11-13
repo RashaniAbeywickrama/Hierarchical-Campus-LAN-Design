@@ -70,8 +70,6 @@ The topology consists of:
 
 Each access switch connects two PCs. Both access switches connect to the distribution switch, which connects to the edge router.
 
-![Campus LAN Topology](Screenshots/campus-lan-topology.png)
-
 ## 🔌 Device Selection
 
 | Network Layer | Device Model | Quantity |
@@ -231,10 +229,6 @@ The following screenshots demonstrate the network implementation and verificatio
 3. Successful PC-to-PC ping results.
 4. DistSwitch and EdgeRouter connectivity tests.
 5. Packet Tracer Simulation Mode packet forwarding.
-
-![Connectivity Verification](Screenshots/connectivity-verification.png)
-
-![Simulation Mode](Screenshots/simulation-mode.png)
 
 ## 🧰 Technologies and Concepts
 
